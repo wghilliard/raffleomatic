@@ -61,7 +61,7 @@ function loadWinners(filename) {
   let raceNumber = 0
   const winners = data.split('\n').reduce((result, line, index) => {
     if (index <= 1 || !line) return result
-    const values = line.split(',').map(v => v.replace(/\(.*\)$/, '').trim())
+    const values = line.split(',').map(v => v.trim().replace(/\(.*\)$/, '').trim())
     if (!values.some(v => v)) return result
     let [event, race, _425, AAF, Aplinestars, Bimmerworld, Griots, ProFormance, Redline, RoR, Toyo] = values
     raceNumber = race ? parseInt(race.split(' ')[1]) : raceNumber
@@ -100,7 +100,7 @@ function loadPrizes(filename, drives) {
   // you can game the system by, for example, leaving off stickers for sponsors you don't want and 
   // thus increasing your chances of winning one of the later prizes (you're more likely to be left 
   // in the pool).
-    randomize(prizes)
+  randomize(prizes)
   return prizes
 }
 
@@ -227,21 +227,25 @@ function presentResults(results) {
 }
 
 function summarizeRaffle(prizes, drives, awarded) {
-  const { unique, duplicates } = awarded.reduce((result, entry) => {
-    const winner = entry.winner.driver
-    if (result.unique.some(e => e === winner))
-      result.duplicates.push(winner)
-    else
-      result.unique.push(winner)
+  const winnerCounts = awarded.reduce((result, current) => {
+    const driver = current.winner.driver
+    result[driver] ? ++result[driver] : result[driver] = 1
     return result
-  }, { unique: [], duplicates: [] })
-
+  }, {})
   const drivers = Array.from(new Set(drives.map(drive => drive.driver)))
   console.log(`${prizes.length} prizes`)
   console.log(`${drives.length} drives by ${drivers.length} drivers`)
-  console.log(`${unique.length} unique winners`)
-  console.log(`${duplicates.length} duplicate winners`)
-  if (duplicates.length) console.log(duplicates)
+  console.log(`${Object.keys(winnerCounts).length} unique winners`)
+  const realDupes = Object.keys(winnerCounts).reduce((result, key) => {
+    if (winnerCounts[key] > 1)
+      result[key] = winnerCounts[key]
+    return result
+  }, {})
+  const sorted = Object.fromEntries(
+    Object.entries(realDupes).sort((a, b) => a[1] - b[1])
+  );
+  console.log(`${Object.keys(sorted).length} duplicate winners`)
+  if (Object.keys(sorted).length) console.log(JSON.stringify(sorted, null, 2))
 }
 
 function recordWinners(lastRace, previous, awarded) {
@@ -260,7 +264,7 @@ function recordWinners(lastRace, previous, awarded) {
   weekend['race'] = ''
   const columns = ['event', 'race', '_425', 'AAF', 'Aplinestars', 'Bimmerworld', 'Griots', 'ProFormance', 'Redline', 'RoR', 'Toyo']
   const weekendString = columns.map(column => weekend[column]
-    ? `${weekend[column].winner.driver} (${weekend[column].prize.type}`
+    ? `${weekend[column].winner.driver} (${weekend[column].prize.type})`
     : '').join(',')
   let final = previous + weekendString + '\n'
   for (const race in byRace)
@@ -287,18 +291,21 @@ validateCarsAndDrives(cars, drives)
 const prizes = loadPrizes('sponsors.csv', drives)
 const { lastRace, winners } = loadWinners('winners.csv')
 
-// do the drawing. If there are any unawarded prizes (likely because of lack of candidates), 
-// redo the drawing with just those prizes. In theory this could happen again but in practice
-// there are more drivers than prizes so hardcoded two rounds should be enough.
-const { awarded, unawarded } = draw([], prizes, drives, cars, winners)
+// do the drawing repeatedly until there all prizes are awarded. Repetition is likely when there are more
+// prizes than drivers and/or cars do not sport all stickers.
+let awarded = []
+let unawarded = prizes
+let round = 1
+while (unawarded.length || round > 5) {
+  console.log(`Running round ${round} for ${unawarded.length} prizes`)
+  const { awarded: newlyAwarded, unawarded: remainingUnawarded } = draw(awarded, unawarded, drives, cars, winners)
+  awarded.push(...newlyAwarded)
+  unawarded = remainingUnawarded
+  round++
+}
 if (unawarded.length) {
-  console.log(`Running a second round for ${unawarded.length} prizes`)
-  const { awarded: secondRoundAwarded, unawarded: secondRoundUnawarded } = draw(awarded, unawarded, drives, cars, winners)
-  awarded.push(...secondRoundAwarded)
-  if (secondRoundUnawarded.length) {
-    console.log('WARNING: Unawarded prizes. There are still unawarded prizes after two raffle rounds.')
-    console.log(secondRoundUnawarded)
-  }
+  console.log(`ERROR: Still could not award all prizes after ${round} rounds!`)
+  exit(1)
 }
 summarizeRaffle(prizes, drives, awarded)
 console.log('')
