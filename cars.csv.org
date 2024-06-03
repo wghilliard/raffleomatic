@@ -1,57 +1,52 @@
 Number,Driver,All?,_425,AAF,Alpinestars,Bimmerworld,Griots,Proformance,RoR,Redline,Toyo,Comment
-1,Jake Borelli,,,y,y,,y,y,,y,y,28-Apr
 7,Shaun Northrup,,y,y,,,y,,,,y,15-Jul
-08,Andrew Michel,n,,,,,,,,y,y,1-May
+8,Andrew Michel,n,,,,,,,,y,y,1-May
 10,Coley Tipton,n,y,y,n,y,,y,n,y,y,1-May
 14,Greg Hartman,,y,y,y,y,y,y,y,y,y,15-Jul
 15,Duncan Pearce,n,y,y,y,y,y,y,,y,y,1-May
 16,Werner Berger,,,,,,,,,,,
+21,Rob Scholl,,y,y,y,y,y,y,y,y,y,15-Jul
 24,Jeff McAffer,y,y,y,y,y,,y,y,y,y,1-May
-25,Madison McCulloch,,y,y,,,y,y,,,y,28-Apr
 26,Lorenzini,,,,,,,,,,,10-Jun
 35,Lance Richert,,y,y,,y,y,y,,,y,15-Jul
 37,Zack Watson (rental?),,y,y,y,y,y,y,y,y,y,11-Aug
 55,Kyle Byers,y,y,y,y,y,y,y,y,y,y,1-May
-16,Matt King,n,,,y,,,,,,y,28-Apr
-71,Isaiah Dummer,y,y,y,y,y,y,y,y,y,y,28-Apr
-75,John McDermott,y,y,y,y,y,y,y,y,y,y,28-Apr
+16,Matt King,n,,,y,,,,,,y,1-May
+71,Isaiah Dummer,n,y,y,y,y,y,y,y,y,y,15-Jul
+75,John McDermott,n,y,y,y, ,y,y,y,y,y,1-May
 78,Will Kellogg,,,,,y,,,y,y,,
 84,Lee Storgard,y,y,y,y,y,,y,y,y,y,1-May
 86,Scott Studerus,n,,y,,y,,y,y,,y,1-May
-88,Drew Wagner,,y,y,n,y,y,y,y,y,y,
 89,Bryce Scott,,y,y,n,y,y,y,y,y,y,15-Jul
 91,Daniele Hovington,y,y,y,y,y,y,y,y,y,y,1-May
-95,Chuck Hurley,,y,y,y,y,y,,y,y,y,28-Apr
+95,Chuck Hurley,y,y,y,y,y,y,y,y,y,y,1-May
 96,Brian Bercovitz,y,y,y,y,y,y,y,y,y,y,1-May
 101,Jeff Bauman,y,y,y,y,y,,y,y,y,y,1-May
-105,Norman Salmon,,,,,y,,y,y,y,y,28-Apr
-106,Hill rental,n,y,,,,y,,y,,y,28-Apr
+105,Norman Salmon,,,,,,,y,y,y,y,15-Jul
+106,Eddie Taras,n,,,,,,,,,y,1-May
 114,Bruce Humberstone,,y,y,,,,,,,y,
 116,Werner Berger,,y,y,y,y,y,,y,y,y,
-119,Jim Cissell,n,y,y,y,y,y,y,y,y,y,28-Apr
-121,Scott Eckert,y,y,y,y,y,y,y,y,y,y,28-Apr
-122,Rob Scholl,,y,y,y,y,y,y,y,y,y,15-Jul
-123,,,y,y,,y,y,y,y,y,y,15-Jul
+119,Jim Cissell,n,y,y,y,,,y,y,y,y,1-May
+121,Scott Eckert,y,y,y,y,y,y,y,y,y,y,1-May
+123,Jake Borrelli?,,y,y,,y,y,y,y,y,y,15-Jul
 129,Russ Lundberg,,,,,,,,,,,
-136,Dirk Groeneveld,,y,y,y,y,y,y,y,y,y,28-Apr
+136,Dirk Groeneveld,n,y,y,y,y,y,y,y,y,y,1-May
 130,Hank (rental),,,y,,,,,y,,,
 137,Zack Watson(rental?),,y,y,y,,y,,y,,y,
-141,Rob Johnston,,,y,,,y,y,y,y,y,28-Apr
-150,Martin Berryman,,,,,,,,,y,y,28-Apr
-151,Matt Lowell,y,y,y,y,y,y,y,y,y,y,28-Apr
+141,Rob Johnston,y,y,y,y,y,,y,y,y,y,1-May
+151,Matt Lowell,y,y,y,y,y,y,y,y,y,y,1-May
 166,Andrew Newell,y,y,y,y,y,,y,y,y,y,1-May
 168,Rental,n,y,n,y,n,,y,n,y,y,1-May
-172,Dave Stenner,n,y,y,y,y,,y,y,y,y,28-Apr
+172,Dave Stenner,n,y,y,y,n,,y,y,y,y,1-May
 173,Hill rental,,y,, ,y,y,y,,,y,15-Jul
 186,Jake Pratt,,y,y,y,y,,y,y,y,y,15-Jul
 188,Michael McLaughlin,,y,y,y,y,y,y,y,y,y,15-Jul
-191,Guy Berry,,y,y,y,y,,y,y,y,y,28-Apr
+191,Guy Berry,,y,y,y,y,,y,y,y,y,1-May
 194,Nick Carbaugh,,y,y,y,y,,y,y,y,y,1-May
-213,Fil Alleva,,y,y,y,y,,y,,y,y,28-Apr
-226,Chandler Briscoe,,n,n,n,n,,n,,n,n,TBD
+213,Fil Aleva,n,y,y,y,y,,y,,y,y,1-May
 229,Chris Luna,y,y,y,y,y,y,y,y,y,y,1-May
 237,Zack Watson,y,y,y,y,y,,y,y,,y,1-May
-244,Corey Peters,y,y,y,y,y,y,y,y,y,y,28-Apr
+244,Corey Peters,y,y,y,y,y,y,y,y,y,y,1-May
 287,John Houlihan,,y,y,,y,y,,y,y,y,
 317,Alex Zuccaro,,y,y,y,y,y,y,y,y,y,
 325,John Gillespie,,,,,,,,,,,
