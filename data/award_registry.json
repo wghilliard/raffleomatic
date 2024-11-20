@@ -1,0 +1,1425 @@
+{
+  "records": [
+    {
+      "name": "PIR April 29-30",
+      "races": [
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 1,
+          "awards": [
+            {
+              "driverName": "Andrew Newell",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_Race_award_value__"
+            },
+            {
+              "driverName": "Brian Bercovitz",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Coley Tipton",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_undefined_award_value__"
+            },
+            {
+              "driverName": "Corey Peters",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_undefined_award_value__"
+            },
+            {
+              "driverName": "Duncan Pearce",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_undefined_award_value__"
+            },
+            {
+              "driverName": "Isaiah Dummer",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_Race_award_value__"
+            },
+            {
+              "driverName": "Jim Cissell",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Nick Carbaugh",
+              "sponsorName": "Redline",
+              "value": "__Redline_Race_award_value__"
+            },
+            {
+              "driverName": "Scott Eckert",
+              "sponsorName": "425 Motorsports",
+              "value": "__425_Race_award__value__"
+            },
+            {
+              "driverName": "Zack Watson",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_Race_award_value__"
+            }
+          ]
+        },
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 2,
+          "awards": [
+            {
+              "driverName": "Andrew Michel",
+              "sponsorName": "Redline",
+              "value": "__Redline_Race_award_value__"
+            },
+            {
+              "driverName": "Chuck Hurley",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_Race_award_value__"
+            },
+            {
+              "driverName": "Daniele Hovington",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_Race_award_value__"
+            },
+            {
+              "driverName": "Dave Stenner",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_undefined_award_value__"
+            },
+            {
+              "driverName": "Dirk Groeneveld",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_undefined_award_value__"
+            },
+            {
+              "driverName": "Fil Aleva",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Jeff Bauman",
+              "sponsorName": "425 Motorsports",
+              "value": "__425_Race_award__value__"
+            },
+            {
+              "driverName": "Jeff McAffer",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_Race_award_value__"
+            },
+            {
+              "driverName": "John McDermott",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Rob Johnston",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_undefined_award_value__"
+            }
+          ]
+        }
+      ],
+      "weekendAwards": []
+    },
+    {
+      "name": "PR June 10-11",
+      "races": [
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 3,
+          "awards": [
+            {
+              "driverName": "Brian Bercovitz",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_Race_award_value__"
+            },
+            {
+              "driverName": "Coley Tipton",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Dave Stenner",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_undefined_award_value__"
+            },
+            {
+              "driverName": "Dirk Groeneveld",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_Race_award_value__"
+            },
+            {
+              "driverName": "Isaiah $50 GC",
+              "sponsorName": "ProFormance Race School",
+              "value": "__ProFormance_Race_award_value__"
+            },
+            {
+              "driverName": "Isaiah Dummer",
+              "sponsorName": "425 Motorsports",
+              "value": "__425_Race_award__value__"
+            },
+            {
+              "driverName": "Jeff McAffer",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_undefined_award_value__"
+            },
+            {
+              "driverName": "Jim Cissell",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_Race_award_value__"
+            },
+            {
+              "driverName": "John Houlihan",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "John McDermott",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Kyle Byers",
+              "sponsorName": "Redline",
+              "value": "__Redline_Race_award_value__"
+            },
+            {
+              "driverName": "Nick Carbaugh",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_undefined_award_value__"
+            },
+            {
+              "driverName": "Norman Salmon",
+              "sponsorName": "Griots Garage",
+              "value": "__Griots_Race_award_value__"
+            },
+            {
+              "driverName": "Rob Johnston",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_Race_award_value__"
+            }
+          ]
+        },
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 4,
+          "awards": [
+            {
+              "driverName": "Andrew Michel",
+              "sponsorName": "Redline",
+              "value": "__Redline_Race_award_value__"
+            },
+            {
+              "driverName": "Chuck Hurley",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_undefined_award_value__"
+            },
+            {
+              "driverName": "Daniele Hovington",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_Race_award_value__"
+            },
+            {
+              "driverName": "Duncan Pearce",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_undefined_award_value__"
+            },
+            {
+              "driverName": "Fil Aleva",
+              "sponsorName": "Griots Garage",
+              "value": "__Griots_Race_award_value__"
+            },
+            {
+              "driverName": "Isaiah Jacket",
+              "sponsorName": "ProFormance Race School",
+              "value": "__ProFormance_Race_award_value__"
+            },
+            {
+              "driverName": "Jack Houlihan",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Jeff Bauman",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_Race_award_value__"
+            },
+            {
+              "driverName": "Lee Storgaard",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_Race_award_value__"
+            },
+            {
+              "driverName": "Matt King",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Matt Lowell",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Scott Eckert",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_undefined_award_value__"
+            },
+            {
+              "driverName": "Scott Studerus",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_Race_award_value__"
+            },
+            {
+              "driverName": "Zack Watson",
+              "sponsorName": "425 Motorsports",
+              "value": "__425_Race_award__value__"
+            }
+          ]
+        }
+      ],
+      "weekendAwards": [
+        {
+          "driverName": "Chris Luna",
+          "sponsorName": "Redline",
+          "value": "__Redline_Weekend_award_value__"
+        },
+        {
+          "driverName": "Scott Studerus",
+          "sponsorName": "Racers On Rails",
+          "value": "__RoR_Weekend_award_value__"
+        }
+      ]
+    },
+    {
+      "name": "PIR June 17-18",
+      "races": [
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 5,
+          "awards": [
+            {
+              "driverName": "Brian Bercovitz",
+              "sponsorName": "Griots Garage",
+              "value": "__Griots_Race_award_value__"
+            },
+            {
+              "driverName": "Brian Bercovitz",
+              "sponsorName": "Redline",
+              "value": "__Redline_Race_award_value__"
+            },
+            {
+              "driverName": "Isaiah Dummer",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_undefined_award_value__"
+            },
+            {
+              "driverName": "Isaiah Dummer",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_undefined_award_value__"
+            },
+            {
+              "driverName": "Jake Pratt",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_undefined_award_value__"
+            },
+            {
+              "driverName": "Jeff Bauman",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "John Houlihan",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_Race_award_value__"
+            },
+            {
+              "driverName": "John McDermott",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Matt Lowell",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Norman Salmon",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_Race_award_value__"
+            },
+            {
+              "driverName": "Scott Eckert",
+              "sponsorName": "425 Motorsports",
+              "value": "__425_Race_award__value__"
+            },
+            {
+              "driverName": "Scott Studerus",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_Race_award_value__"
+            },
+            {
+              "driverName": "Zack Watson",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_Race_award_value__"
+            }
+          ]
+        },
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 6,
+          "awards": [
+            {
+              "driverName": "Charles Hurley",
+              "sponsorName": "Griots Garage",
+              "value": "__Griots_Race_award_value__"
+            },
+            {
+              "driverName": "Charles Hurley",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_Race_award_value__"
+            },
+            {
+              "driverName": "Corey Peters",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_Race_award_value__"
+            },
+            {
+              "driverName": "Corey Peters",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_undefined_award_value__"
+            },
+            {
+              "driverName": "Daniele Hovington",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_undefined_award_value__"
+            },
+            {
+              "driverName": "Fil Aleva",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Guy Berry",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Guy Berry",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_undefined_award_value__"
+            },
+            {
+              "driverName": "Jim Cissell",
+              "sponsorName": "Redline",
+              "value": "__Redline_Race_award_value__"
+            },
+            {
+              "driverName": "John Houlihan",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_Race_award_value__"
+            },
+            {
+              "driverName": "John McDermott",
+              "sponsorName": "425 Motorsports",
+              "value": "__425_Race_award__value__"
+            },
+            {
+              "driverName": "Kyle Byers",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_Race_award_value__"
+            },
+            {
+              "driverName": "Kyle Byers",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            }
+          ]
+        }
+      ],
+      "weekendAwards": [
+        {
+          "driverName": "Chris Luna",
+          "sponsorName": "Racers On Rails",
+          "value": "__RoR_Weekend_award_value__"
+        },
+        {
+          "driverName": "Daniele Hovington",
+          "sponsorName": "Redline",
+          "value": "__Redline_Weekend_award_value__"
+        }
+      ]
+    },
+    {
+      "name": "PR July 15-16",
+      "races": [
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 7,
+          "awards": [
+            {
+              "driverName": "Charles Hurley",
+              "sponsorName": "Griots Garage",
+              "value": "__Griots_Race_award_value__"
+            },
+            {
+              "driverName": "Christine Horn",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_Race_award_value__"
+            },
+            {
+              "driverName": "Daniele Hovington",
+              "sponsorName": "Redline",
+              "value": "__Redline_Race_award_value__"
+            },
+            {
+              "driverName": "Fil Aleva",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Jake Borrelli",
+              "sponsorName": "425 Motorsports",
+              "value": "__425_Race_award__value__"
+            },
+            {
+              "driverName": "Jim Cissell",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Lee Storgaard",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_undefined_award_value__"
+            },
+            {
+              "driverName": "Matt Lowell",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_Race_award_value__"
+            },
+            {
+              "driverName": "Michael McLaughlin",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Norman Salmon",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_undefined_award_value__"
+            },
+            {
+              "driverName": "Rob Johnston",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_undefined_award_value__"
+            },
+            {
+              "driverName": "Scott Eckert",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_Race_award_value__"
+            },
+            {
+              "driverName": "Will Kellogg",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_Race_award_value__"
+            }
+          ]
+        },
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 8,
+          "awards": [
+            {
+              "driverName": "Andrew Michel",
+              "sponsorName": "Redline",
+              "value": "__Redline_Race_award_value__"
+            },
+            {
+              "driverName": "Brian Bercovitz",
+              "sponsorName": "Griots Garage",
+              "value": "__Griots_Race_award_value__"
+            },
+            {
+              "driverName": "Bryce Scott",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_undefined_award_value__"
+            },
+            {
+              "driverName": "Dirk Groeneveld",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_undefined_award_value__"
+            },
+            {
+              "driverName": "Duncan Pearce",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Greg Hartman",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_Race_award_value__"
+            },
+            {
+              "driverName": "Isaiah Dummer",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Jack Houlihan",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Jeff McAffer",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_Race_award_value__"
+            },
+            {
+              "driverName": "John McDermott",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_Race_award_value__"
+            },
+            {
+              "driverName": "Kyle Byers",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_undefined_award_value__"
+            },
+            {
+              "driverName": "Lance Richert",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_Race_award_value__"
+            },
+            {
+              "driverName": "Shaun Northrup",
+              "sponsorName": "425 Motorsports",
+              "value": "__425_Race_award__value__"
+            }
+          ]
+        }
+      ],
+      "weekendAwards": [
+        {
+          "driverName": "Corey Peters",
+          "sponsorName": "Redline",
+          "value": "__Redline_Weekend_award_value__"
+        },
+        {
+          "driverName": "John Houlihan",
+          "sponsorName": "Racers On Rails",
+          "value": "__RoR_Weekend_award_value__"
+        }
+      ]
+    },
+    {
+      "name": "2023 NWMS Grand Prix",
+      "races": [
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 8,
+          "awards": [
+            {
+              "driverName": "Fil Alleva",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Greg Hartman",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_undefined_award_value__"
+            }
+          ]
+        },
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 9,
+          "awards": [
+            {
+              "driverName": "Andrew Michel",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_Race_award_value__"
+            },
+            {
+              "driverName": "Charles Hurley",
+              "sponsorName": "Redline",
+              "value": "__Redline_Race_award_value__"
+            },
+            {
+              "driverName": "Corey Peters",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_undefined_award_value__"
+            },
+            {
+              "driverName": "Greg Hartman",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_undefined_award_value__"
+            },
+            {
+              "driverName": "Guy Berry",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_Race_award_value__"
+            },
+            {
+              "driverName": "Isaiah Dummer",
+              "sponsorName": "Griots Garage",
+              "value": "__Griots_Race_award_value__"
+            },
+            {
+              "driverName": "Jack Houlihan",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_Race_award_value__"
+            },
+            {
+              "driverName": "Jake Pratt",
+              "sponsorName": "425 Motorsports",
+              "value": "__425_Race_award__value__"
+            },
+            {
+              "driverName": "Jeff McAffer",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Jim Cissell",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_undefined_award_value__"
+            },
+            {
+              "driverName": "Kyle Byers",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_Race_award_value__"
+            },
+            {
+              "driverName": "Matt Lowell",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Norman Salmon",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            }
+          ]
+        },
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 10,
+          "awards": [
+            {
+              "driverName": "Bryce Scott",
+              "sponsorName": "Redline",
+              "value": "__Redline_Race_award_value__"
+            },
+            {
+              "driverName": "Charles Hurley",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_undefined_award_value__"
+            },
+            {
+              "driverName": "Chris Luna",
+              "sponsorName": "425 Motorsports",
+              "value": "__425_Race_award__value__"
+            },
+            {
+              "driverName": "Corey Peters",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Daniele Hovington",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_Race_award_value__"
+            },
+            {
+              "driverName": "Daniele Hovington",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Isaiah Dummer",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_undefined_award_value__"
+            },
+            {
+              "driverName": "John McDermott",
+              "sponsorName": "Griots Garage",
+              "value": "__Griots_Race_award_value__"
+            },
+            {
+              "driverName": "Kyle Byers",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_undefined_award_value__"
+            },
+            {
+              "driverName": "Lee Storgaard",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_Race_award_value__"
+            },
+            {
+              "driverName": "Lee Storgaard",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Matt Lowell",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_Race_award_value__"
+            },
+            {
+              "driverName": "Scott Eckert",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_Race_award_value__"
+            }
+          ]
+        },
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 11,
+          "awards": [
+            {
+              "driverName": "Brian Bercovitz",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_undefined_award_value__"
+            },
+            {
+              "driverName": "Duncan Pearce",
+              "sponsorName": "Griots Garage",
+              "value": "__Griots_Race_award_value__"
+            },
+            {
+              "driverName": "Duncan Pearce",
+              "sponsorName": "Redline",
+              "value": "__Redline_Race_award_value__"
+            },
+            {
+              "driverName": "Jack Houlihan",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Jake Pratt",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Jeff McAffer",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_Race_award_value__"
+            },
+            {
+              "driverName": "Jim Cissell",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_Race_award_value__"
+            },
+            {
+              "driverName": "John McDermott",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_undefined_award_value__"
+            },
+            {
+              "driverName": "Matthew King",
+              "sponsorName": "425 Motorsports",
+              "value": "__425_Race_award__value__"
+            },
+            {
+              "driverName": "Matthew King",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_Race_award_value__"
+            },
+            {
+              "driverName": "Scott Eckert",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Zack Watson",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_Race_award_value__"
+            },
+            {
+              "driverName": "Zack Watson",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_undefined_award_value__"
+            }
+          ]
+        }
+      ],
+      "weekendAwards": []
+    },
+    {
+      "name": "The Dash XXXIV",
+      "races": [
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 11,
+          "awards": [
+            {
+              "driverName": "Nicholas Carbaugh",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Norman Salmon",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_undefined_award_value__"
+            }
+          ]
+        },
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 12,
+          "awards": [
+            {
+              "driverName": "Bryce Scott",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Chris Luna",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_undefined_award_value__"
+            },
+            {
+              "driverName": "Corey Peters",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_Race_award_value__"
+            },
+            {
+              "driverName": "Dirk Groeneveld",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_undefined_award_value__"
+            },
+            {
+              "driverName": "Duncan Pearce",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_Race_award_value__"
+            },
+            {
+              "driverName": "Isaiah Dummer",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_undefined_award_value__"
+            },
+            {
+              "driverName": "Jake Borrelli",
+              "sponsorName": "Redline",
+              "value": "__Redline_Race_award_value__"
+            },
+            {
+              "driverName": "John McDermott",
+              "sponsorName": "425 Motorsports",
+              "value": "__425_Race_award__value__"
+            },
+            {
+              "driverName": "Lee Storgaard",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Matt Lowell",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Nicholas Carbaugh",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_Race_award_value__"
+            },
+            {
+              "driverName": "Scott Eckert",
+              "sponsorName": "Griots Garage",
+              "value": "__Griots_Race_award_value__"
+            },
+            {
+              "driverName": "Zack Watson",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_Race_award_value__"
+            }
+          ]
+        },
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 13,
+          "awards": [
+            {
+              "driverName": "Bryce Scott",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_Race_award_value__"
+            },
+            {
+              "driverName": "Charles Hurley",
+              "sponsorName": "Redline",
+              "value": "__Redline_Race_award_value__"
+            },
+            {
+              "driverName": "Charles Hurley",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_undefined_award_value__"
+            },
+            {
+              "driverName": "Chris Luna",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_Race_award_value__"
+            },
+            {
+              "driverName": "Dirk Groeneveld",
+              "sponsorName": "Griots Garage",
+              "value": "__Griots_Race_award_value__"
+            },
+            {
+              "driverName": "Dirk Groeneveld",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_undefined_award_value__"
+            },
+            {
+              "driverName": "Duncan Pearce",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_undefined_award_value__"
+            },
+            {
+              "driverName": "Greg Hartman",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_Race_award_value__"
+            },
+            {
+              "driverName": "Isaiah Dummer",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Jake Pratt",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_Race_award_value__"
+            },
+            {
+              "driverName": "Jim Cissell",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Norman Salmon",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Rob Johnston",
+              "sponsorName": "425 Motorsports",
+              "value": "__425_Race_award__value__"
+            }
+          ]
+        }
+      ],
+      "weekendAwards": []
+    },
+    {
+      "name": "Love and Thunder on the Ridge",
+      "races": [
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 13,
+          "awards": [
+            {
+              "driverName": "Jake Borrelli",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "John Houlihan",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_undefined_award_value__"
+            }
+          ]
+        },
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 14,
+          "awards": [
+            {
+              "driverName": "Brian Bercovitz",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_Race_award_value__"
+            },
+            {
+              "driverName": "Chris Luna",
+              "sponsorName": "Griots Garage",
+              "value": "__Griots_Race_award_value__"
+            },
+            {
+              "driverName": "Corey Peters",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Daniele Hovington",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_undefined_award_value__"
+            },
+            {
+              "driverName": "Fil Alleva",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Guy Berry",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_Race_award_value__"
+            },
+            {
+              "driverName": "Jim Cissell",
+              "sponsorName": "425 Motorsports",
+              "value": "__425_Race_award__value__"
+            },
+            {
+              "driverName": "Kyle Byers",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_Race_award_value__"
+            },
+            {
+              "driverName": "Lee Storgaard",
+              "sponsorName": "Redline",
+              "value": "__Redline_Race_award_value__"
+            },
+            {
+              "driverName": "Matt Lowell",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Scott Eckert",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_Race_award_value__"
+            },
+            {
+              "driverName": "Will Kellogg",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_undefined_award_value__"
+            },
+            {
+              "driverName": "Zack Watson",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_undefined_award_value__"
+            }
+          ]
+        },
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 15,
+          "awards": [
+            {
+              "driverName": "Bruce Humberstone",
+              "sponsorName": "425 Motorsports",
+              "value": "__425_Race_award__value__"
+            },
+            {
+              "driverName": "Bryce Scott",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_undefined_award_value__"
+            },
+            {
+              "driverName": "Charles Hurley",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Chris Luna",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_undefined_award_value__"
+            },
+            {
+              "driverName": "David Stenner",
+              "sponsorName": "Redline",
+              "value": "__Redline_Race_award_value__"
+            },
+            {
+              "driverName": "Dirk Groeneveld",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_Race_award_value__"
+            },
+            {
+              "driverName": "Isaiah Dummer",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Jeff Bauman",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_Race_award_value__"
+            },
+            {
+              "driverName": "John McDermott",
+              "sponsorName": "Griots Garage",
+              "value": "__Griots_Race_award_value__"
+            },
+            {
+              "driverName": "Michael McLaughlin",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_Race_award_value__"
+            },
+            {
+              "driverName": "Nicholas Carbaugh",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_undefined_award_value__"
+            },
+            {
+              "driverName": "Norman Salmon",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_Race_award_value__"
+            },
+            {
+              "driverName": "Rob Johnston",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            }
+          ]
+        }
+      ],
+      "weekendAwards": []
+    },
+    {
+      "name": "USTCC Pro3 Portland",
+      "races": [
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 15,
+          "awards": [
+            {
+              "driverName": "Brian Bercovitz",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_undefined_award_value__"
+            },
+            {
+              "driverName": "Bryce Scott",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_undefined_award_value__"
+            },
+            {
+              "driverName": "Chris Luna",
+              "sponsorName": "425 Motorsports",
+              "value": "__425_undefined_award__value__"
+            },
+            {
+              "driverName": "Corey Peters",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_undefined_award_value__"
+            },
+            {
+              "driverName": "Daniele Hovington",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_undefined_award_value__"
+            },
+            {
+              "driverName": "Fil Alleva",
+              "sponsorName": "425 Motorsports",
+              "value": "__425_undefined_award__value__"
+            },
+            {
+              "driverName": "Greg Hartman (Gift card",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_undefined_award_value__"
+            },
+            {
+              "driverName": "Isaiah Dummer",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_undefined_award_value__"
+            },
+            {
+              "driverName": "Jeff Bauman",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_undefined_award_value__"
+            },
+            {
+              "driverName": "Jeff McAffer",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_undefined_award_value__"
+            },
+            {
+              "driverName": "John Houlihan",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_undefined_award_value__"
+            },
+            {
+              "driverName": "John McDermott",
+              "sponsorName": "Griots Garage",
+              "value": "__Griots_undefined_award_value__"
+            },
+            {
+              "driverName": "Kyle Byers (Gift card",
+              "sponsorName": "Griots Garage",
+              "value": "__Griots_undefined_award_value__"
+            },
+            {
+              "driverName": "Lance Richert",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_undefined_award_value__"
+            },
+            {
+              "driverName": "Lee Storgaard",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_undefined_award_value__"
+            },
+            {
+              "driverName": "Scott Eckert",
+              "sponsorName": "Griots Garage",
+              "value": "__Griots_undefined_award_value__"
+            }
+          ]
+        }
+      ],
+      "weekendAwards": []
+    },
+    {
+      "name": "ICSCC Race",
+      "races": [
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 15,
+          "awards": [
+            {
+              "driverName": "Alex Zuccaro (Gift card",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_undefined_award_value__"
+            }
+          ]
+        },
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 16,
+          "awards": [
+            {
+              "driverName": "Alex Zuccaro",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_Race_award_value__"
+            },
+            {
+              "driverName": "Bryce Scott",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_Race_award_value__"
+            },
+            {
+              "driverName": "Corey Peters",
+              "sponsorName": "Redline",
+              "value": "__Redline_Race_award_value__"
+            },
+            {
+              "driverName": "Isaiah Dummer",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_undefined_award_value__"
+            },
+            {
+              "driverName": "Isaiah Dummer",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_undefined_award_value__"
+            },
+            {
+              "driverName": "Jake Borrelli",
+              "sponsorName": "Griots Garage",
+              "value": "__Griots_Race_award_value__"
+            },
+            {
+              "driverName": "Matt Lowell",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Norman Salmon",
+              "sponsorName": "425 Motorsports",
+              "value": "__425_Race_award__value__"
+            },
+            {
+              "driverName": "Norman Salmon",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Werner Berger",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_Race_award_value__"
+            },
+            {
+              "driverName": "Werner Berger",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_undefined_award_value__"
+            },
+            {
+              "driverName": "Zack Watson",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_Race_award_value__"
+            },
+            {
+              "driverName": "Zack Watson",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            }
+          ]
+        },
+        {
+          "timestamp": "2024-11-20",
+          "raceId": 17,
+          "awards": [
+            {
+              "driverName": "Bryce Scott",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Charles Hurley",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_undefined_award_value__"
+            },
+            {
+              "driverName": "Charles Hurley",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_undefined_award_value__"
+            },
+            {
+              "driverName": "Chris Luna",
+              "sponsorName": "Racers On Rails",
+              "value": "__RoR_Race_award_value__"
+            },
+            {
+              "driverName": "Chris Luna",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_undefined_award_value__"
+            },
+            {
+              "driverName": "Corey Peters",
+              "sponsorName": "425 Motorsports",
+              "value": "__425_Race_award__value__"
+            },
+            {
+              "driverName": "Jeff McAffer",
+              "sponsorName": "Toyo Tires",
+              "value": "__Toyo_Race_award_value__"
+            },
+            {
+              "driverName": "Jeff McAffer",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "John McDermott",
+              "sponsorName": "Griots Garage",
+              "value": "__Griots_Race_award_value__"
+            },
+            {
+              "driverName": "John McDermott",
+              "sponsorName": "Redline",
+              "value": "__Redline_undefined_award_value__"
+            },
+            {
+              "driverName": "Matt Lowell",
+              "sponsorName": "Advanced Auto Fabrication",
+              "value": "__AAF_Race_award_value__"
+            },
+            {
+              "driverName": "Scott Eckert",
+              "sponsorName": "Bimmerworld",
+              "value": "__Bimmerworld_Race_award_value__"
+            },
+            {
+              "driverName": "Scott Eckert",
+              "sponsorName": "Redline",
+              "value": "__Redline_Race_award_value__"
+            }
+          ]
+        }
+      ],
+      "weekendAwards": []
+    }
+  ],
+  "lastUpdatedDateTime": "2024-11-20T23:54:56.885Z",
+  "lastUpdatedBy": "wghilliard"
+}

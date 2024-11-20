@@ -12,7 +12,7 @@ export class Car {
     ProFormance: boolean;
     RoR: boolean;
     Redline: boolean;
-    Toyo: boolean
+    Toyo: boolean;
 }
 
 export type CarNumber = string;
@@ -36,6 +36,8 @@ export function parseCarFromLine(line: string) : Car {
 
     return car;
 }
+
+export type RaceNumber = number;
 
 export class RaceResult{
     driverName: string;
@@ -110,7 +112,8 @@ export class Prize {
 
 export class PrizeWinner {
     eventName: string;
-    raceId: number;
+    prizeType: string;
+    id: number;
     _425: string;
     AAF: string;
     Alpinestars: string;
@@ -122,15 +125,45 @@ export class PrizeWinner {
     Toyo: string
 }
 
-export function parsePrizeWinnerFromLine(line: string, currentRaceNumber: number): PrizeWinner {
+export function parsePrizeWinnerFromLine(line: string, currentRaceNumber: number, currentRaceName: string) {
     const values = line.split(",").map(v => v.trim().replace(/\(.*\)$/, "").trim());
     if (!values.some(v => v)) {
-        return null;
+        return {
+            skip: true
+        };
+    }
+
+    if (values[0])
+    {
+        currentRaceName = values[0].trim();
+    }
+
+    if (!values.slice(1).some(v => v))
+    {
+        return {
+            currentRaceName: currentRaceName
+        };
+    }
+
+    let prizeType: string;
+    let prizeId = 0;
+    if (values[1])
+    {
+        if (values[1] == "Weekend")
+        {
+            prizeType = "Weekend";
+        }
+        else
+        {
+            prizeType = "Race";
+            prizeId = parseInt(values[1].split(" ")[1]);
+        }
     }
 
     const winner = new PrizeWinner();
-    winner.eventName = values[0];
-    winner.raceId = values[1] ? parseInt(values[1].split(" ")[1]) : currentRaceNumber;
+    winner.eventName = currentRaceName;
+    winner.prizeType = prizeType;
+    winner.id = prizeId ? prizeId : currentRaceNumber;
     winner._425 = values[2];
     winner.AAF = values[3];
     winner.Alpinestars = values[4];
@@ -141,15 +174,16 @@ export function parsePrizeWinnerFromLine(line: string, currentRaceNumber: number
     winner.RoR = values[9];
     winner.Toyo = values[10];
 
-    return winner;
+    return {
+        winner: winner
+    };
 }
 
 export class PrizeWinners {
     lastRace: number;
-    winners: PrizeWinner[][];
+    winners: Map<RaceNumber, PrizeWinner[]>;
 
-
-    constructor(lastRace: number, winners: PrizeWinner[][]) {
+    constructor(lastRace: number, winners: Map<RaceNumber, PrizeWinner[]>) {
         this.lastRace = lastRace;
         this.winners = winners;
     }

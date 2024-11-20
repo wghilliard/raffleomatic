@@ -1,5 +1,5 @@
 Event,Race,425,AAF,Alpinestars,Bimmerworld,Griots,Proformance,Redline,Racer on Rails,Toyo
-,,1/race,2/race,2/race,2/race,,Cash at PR races,3/race,1/race + 1/event,2/race
+,,1/race,2/race,2/race,2/race,,Cash at PR races,3/race,,2/race1/race + 1/event
 PIR April 29-30,,,,,,,,,,
 ,Race 1,Scott Eckert,Isaiah Dummer,,Zack Watson,,,Nick Carbaugh,,Andrew Newell
 ,,,Duncan Pearce,,Coley Tipton,,,Brian Bercovitz,,Corey Peters
