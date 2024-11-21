@@ -159,6 +159,10 @@ export function parsePrizeWinnerFromLine(line: string, currentRaceNumber: number
             prizeId = parseInt(values[1].split(" ")[1]);
         }
     }
+    else
+    {
+        prizeType = "Race";
+    }
 
     const winner = new PrizeWinner();
     winner.eventName = currentRaceName;

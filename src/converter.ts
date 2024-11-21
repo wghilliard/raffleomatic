@@ -6,7 +6,6 @@ import fs from "fs";
 import minimist, {ParsedArgs} from "minimist";
 
 import {
-    PrizeWinner,
     PrizeWinners,
 } from "./v1models";
 import {Award, AwardRegistry, EventRecord, RaceRecord} from "./v2models";
@@ -116,20 +115,22 @@ function main(): void {
         }
     }
 
-    // registry.records.sort((a, b) => a.name.localeCompare(b.name));
+    let totalAwardCount = 0;
     registry.records.forEach(record => {
         record.weekendAwards.sort((a, b) => a.driverName.localeCompare(b.driverName));
         console.log(`processed event=[${record.name}]weekendAwards.Length=[${record.weekendAwards.length}]`);
+        totalAwardCount += record.weekendAwards.length;
 
         record.races.sort((a, b) => a.raceId - b.raceId);
         record.races.forEach(race => {
             console.log(`processed event=[${record.name}]raceId=[${race.raceId}]awards.Length=[${race.awards.length}]`);
             race.awards.sort((a, b) => a.driverName.localeCompare(b.driverName));
+            totalAwardCount += race.awards.length;
         });
     });
 
     fs.writeFileSync(output, JSON.stringify(registry, null, 2));
-    console.log(`wrote new registry to ${output}`);
+    console.log(`wrote new registry w/ ${totalAwardCount} awards to ${output}`);
 }
 
 

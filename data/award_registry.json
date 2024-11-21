@@ -15,22 +15,22 @@
             {
               "driverName": "Brian Bercovitz",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Coley Tipton",
               "sponsorName": "Bimmerworld",
-              "value": "__Bimmerworld_undefined_award_value__"
+              "value": "__Bimmerworld_Race_award_value__"
             },
             {
               "driverName": "Corey Peters",
               "sponsorName": "Toyo Tires",
-              "value": "__Toyo_undefined_award_value__"
+              "value": "__Toyo_Race_award_value__"
             },
             {
               "driverName": "Duncan Pearce",
               "sponsorName": "Advanced Auto Fabrication",
-              "value": "__AAF_undefined_award_value__"
+              "value": "__AAF_Race_award_value__"
             },
             {
               "driverName": "Isaiah Dummer",
@@ -40,7 +40,7 @@
             {
               "driverName": "Jim Cissell",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Nick Carbaugh",
@@ -81,17 +81,17 @@
             {
               "driverName": "Dave Stenner",
               "sponsorName": "Toyo Tires",
-              "value": "__Toyo_undefined_award_value__"
+              "value": "__Toyo_Race_award_value__"
             },
             {
               "driverName": "Dirk Groeneveld",
               "sponsorName": "Advanced Auto Fabrication",
-              "value": "__AAF_undefined_award_value__"
+              "value": "__AAF_Race_award_value__"
             },
             {
               "driverName": "Fil Aleva",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Jeff Bauman",
@@ -106,12 +106,12 @@
             {
               "driverName": "John McDermott",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Rob Johnston",
               "sponsorName": "Bimmerworld",
-              "value": "__Bimmerworld_undefined_award_value__"
+              "value": "__Bimmerworld_Race_award_value__"
             }
           ]
         }
@@ -133,12 +133,12 @@
             {
               "driverName": "Coley Tipton",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Dave Stenner",
               "sponsorName": "Advanced Auto Fabrication",
-              "value": "__AAF_undefined_award_value__"
+              "value": "__AAF_Race_award_value__"
             },
             {
               "driverName": "Dirk Groeneveld",
@@ -158,7 +158,7 @@
             {
               "driverName": "Jeff McAffer",
               "sponsorName": "Bimmerworld",
-              "value": "__Bimmerworld_undefined_award_value__"
+              "value": "__Bimmerworld_Race_award_value__"
             },
             {
               "driverName": "Jim Cissell",
@@ -168,12 +168,12 @@
             {
               "driverName": "John Houlihan",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "John McDermott",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Kyle Byers",
@@ -183,7 +183,7 @@
             {
               "driverName": "Nick Carbaugh",
               "sponsorName": "Toyo Tires",
-              "value": "__Toyo_undefined_award_value__"
+              "value": "__Toyo_Race_award_value__"
             },
             {
               "driverName": "Norman Salmon",
@@ -209,7 +209,7 @@
             {
               "driverName": "Chuck Hurley",
               "sponsorName": "Bimmerworld",
-              "value": "__Bimmerworld_undefined_award_value__"
+              "value": "__Bimmerworld_Race_award_value__"
             },
             {
               "driverName": "Daniele Hovington",
@@ -219,7 +219,7 @@
             {
               "driverName": "Duncan Pearce",
               "sponsorName": "Toyo Tires",
-              "value": "__Toyo_undefined_award_value__"
+              "value": "__Toyo_Race_award_value__"
             },
             {
               "driverName": "Fil Aleva",
@@ -234,7 +234,7 @@
             {
               "driverName": "Jack Houlihan",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Jeff Bauman",
@@ -249,17 +249,17 @@
             {
               "driverName": "Matt King",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Matt Lowell",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Scott Eckert",
               "sponsorName": "Advanced Auto Fabrication",
-              "value": "__AAF_undefined_award_value__"
+              "value": "__AAF_Race_award_value__"
             },
             {
               "driverName": "Scott Studerus",
@@ -307,22 +307,22 @@
             {
               "driverName": "Isaiah Dummer",
               "sponsorName": "Advanced Auto Fabrication",
-              "value": "__AAF_undefined_award_value__"
+              "value": "__AAF_Race_award_value__"
             },
             {
               "driverName": "Isaiah Dummer",
               "sponsorName": "Bimmerworld",
-              "value": "__Bimmerworld_undefined_award_value__"
+              "value": "__Bimmerworld_Race_award_value__"
             },
             {
               "driverName": "Jake Pratt",
               "sponsorName": "Toyo Tires",
-              "value": "__Toyo_undefined_award_value__"
+              "value": "__Toyo_Race_award_value__"
             },
             {
               "driverName": "Jeff Bauman",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "John Houlihan",
@@ -332,12 +332,12 @@
             {
               "driverName": "John McDermott",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Matt Lowell",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Norman Salmon",
@@ -383,27 +383,27 @@
             {
               "driverName": "Corey Peters",
               "sponsorName": "Bimmerworld",
-              "value": "__Bimmerworld_undefined_award_value__"
+              "value": "__Bimmerworld_Race_award_value__"
             },
             {
               "driverName": "Daniele Hovington",
               "sponsorName": "Advanced Auto Fabrication",
-              "value": "__AAF_undefined_award_value__"
+              "value": "__AAF_Race_award_value__"
             },
             {
               "driverName": "Fil Aleva",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Guy Berry",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Guy Berry",
               "sponsorName": "Toyo Tires",
-              "value": "__Toyo_undefined_award_value__"
+              "value": "__Toyo_Race_award_value__"
             },
             {
               "driverName": "Jim Cissell",
@@ -428,7 +428,7 @@
             {
               "driverName": "Kyle Byers",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             }
           ]
         }
@@ -471,7 +471,7 @@
             {
               "driverName": "Fil Aleva",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Jake Borrelli",
@@ -481,12 +481,12 @@
             {
               "driverName": "Jim Cissell",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Lee Storgaard",
               "sponsorName": "Advanced Auto Fabrication",
-              "value": "__AAF_undefined_award_value__"
+              "value": "__AAF_Race_award_value__"
             },
             {
               "driverName": "Matt Lowell",
@@ -496,17 +496,17 @@
             {
               "driverName": "Michael McLaughlin",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Norman Salmon",
               "sponsorName": "Toyo Tires",
-              "value": "__Toyo_undefined_award_value__"
+              "value": "__Toyo_Race_award_value__"
             },
             {
               "driverName": "Rob Johnston",
               "sponsorName": "Bimmerworld",
-              "value": "__Bimmerworld_undefined_award_value__"
+              "value": "__Bimmerworld_Race_award_value__"
             },
             {
               "driverName": "Scott Eckert",
@@ -537,17 +537,17 @@
             {
               "driverName": "Bryce Scott",
               "sponsorName": "Advanced Auto Fabrication",
-              "value": "__AAF_undefined_award_value__"
+              "value": "__AAF_Race_award_value__"
             },
             {
               "driverName": "Dirk Groeneveld",
               "sponsorName": "Bimmerworld",
-              "value": "__Bimmerworld_undefined_award_value__"
+              "value": "__Bimmerworld_Race_award_value__"
             },
             {
               "driverName": "Duncan Pearce",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Greg Hartman",
@@ -557,12 +557,12 @@
             {
               "driverName": "Isaiah Dummer",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Jack Houlihan",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Jeff McAffer",
@@ -577,7 +577,7 @@
             {
               "driverName": "Kyle Byers",
               "sponsorName": "Toyo Tires",
-              "value": "__Toyo_undefined_award_value__"
+              "value": "__Toyo_Race_award_value__"
             },
             {
               "driverName": "Lance Richert",
@@ -615,12 +615,12 @@
             {
               "driverName": "Fil Alleva",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Greg Hartman",
               "sponsorName": "Racers On Rails",
-              "value": "__RoR_undefined_award_value__"
+              "value": "__RoR_Race_award_value__"
             }
           ]
         },
@@ -641,12 +641,12 @@
             {
               "driverName": "Corey Peters",
               "sponsorName": "Bimmerworld",
-              "value": "__Bimmerworld_undefined_award_value__"
+              "value": "__Bimmerworld_Race_award_value__"
             },
             {
               "driverName": "Greg Hartman",
               "sponsorName": "Toyo Tires",
-              "value": "__Toyo_undefined_award_value__"
+              "value": "__Toyo_Race_award_value__"
             },
             {
               "driverName": "Guy Berry",
@@ -671,12 +671,12 @@
             {
               "driverName": "Jeff McAffer",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Jim Cissell",
               "sponsorName": "Advanced Auto Fabrication",
-              "value": "__AAF_undefined_award_value__"
+              "value": "__AAF_Race_award_value__"
             },
             {
               "driverName": "Kyle Byers",
@@ -686,12 +686,12 @@
             {
               "driverName": "Matt Lowell",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Norman Salmon",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             }
           ]
         },
@@ -707,7 +707,7 @@
             {
               "driverName": "Charles Hurley",
               "sponsorName": "Bimmerworld",
-              "value": "__Bimmerworld_undefined_award_value__"
+              "value": "__Bimmerworld_Race_award_value__"
             },
             {
               "driverName": "Chris Luna",
@@ -717,7 +717,7 @@
             {
               "driverName": "Corey Peters",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Daniele Hovington",
@@ -727,12 +727,12 @@
             {
               "driverName": "Daniele Hovington",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Isaiah Dummer",
               "sponsorName": "Toyo Tires",
-              "value": "__Toyo_undefined_award_value__"
+              "value": "__Toyo_Race_award_value__"
             },
             {
               "driverName": "John McDermott",
@@ -742,7 +742,7 @@
             {
               "driverName": "Kyle Byers",
               "sponsorName": "Advanced Auto Fabrication",
-              "value": "__AAF_undefined_award_value__"
+              "value": "__AAF_Race_award_value__"
             },
             {
               "driverName": "Lee Storgaard",
@@ -752,7 +752,7 @@
             {
               "driverName": "Lee Storgaard",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Matt Lowell",
@@ -773,7 +773,7 @@
             {
               "driverName": "Brian Bercovitz",
               "sponsorName": "Bimmerworld",
-              "value": "__Bimmerworld_undefined_award_value__"
+              "value": "__Bimmerworld_Race_award_value__"
             },
             {
               "driverName": "Duncan Pearce",
@@ -788,12 +788,12 @@
             {
               "driverName": "Jack Houlihan",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Jake Pratt",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Jeff McAffer",
@@ -808,7 +808,7 @@
             {
               "driverName": "John McDermott",
               "sponsorName": "Toyo Tires",
-              "value": "__Toyo_undefined_award_value__"
+              "value": "__Toyo_Race_award_value__"
             },
             {
               "driverName": "Matthew King",
@@ -823,7 +823,7 @@
             {
               "driverName": "Scott Eckert",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Zack Watson",
@@ -833,7 +833,7 @@
             {
               "driverName": "Zack Watson",
               "sponsorName": "Advanced Auto Fabrication",
-              "value": "__AAF_undefined_award_value__"
+              "value": "__AAF_Race_award_value__"
             }
           ]
         }
@@ -850,12 +850,12 @@
             {
               "driverName": "Nicholas Carbaugh",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Norman Salmon",
               "sponsorName": "Racers On Rails",
-              "value": "__RoR_undefined_award_value__"
+              "value": "__RoR_Race_award_value__"
             }
           ]
         },
@@ -866,12 +866,12 @@
             {
               "driverName": "Bryce Scott",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Chris Luna",
               "sponsorName": "Toyo Tires",
-              "value": "__Toyo_undefined_award_value__"
+              "value": "__Toyo_Race_award_value__"
             },
             {
               "driverName": "Corey Peters",
@@ -881,7 +881,7 @@
             {
               "driverName": "Dirk Groeneveld",
               "sponsorName": "Advanced Auto Fabrication",
-              "value": "__AAF_undefined_award_value__"
+              "value": "__AAF_Race_award_value__"
             },
             {
               "driverName": "Duncan Pearce",
@@ -891,7 +891,7 @@
             {
               "driverName": "Isaiah Dummer",
               "sponsorName": "Bimmerworld",
-              "value": "__Bimmerworld_undefined_award_value__"
+              "value": "__Bimmerworld_Race_award_value__"
             },
             {
               "driverName": "Jake Borrelli",
@@ -906,12 +906,12 @@
             {
               "driverName": "Lee Storgaard",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Matt Lowell",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Nicholas Carbaugh",
@@ -947,7 +947,7 @@
             {
               "driverName": "Charles Hurley",
               "sponsorName": "Bimmerworld",
-              "value": "__Bimmerworld_undefined_award_value__"
+              "value": "__Bimmerworld_Race_award_value__"
             },
             {
               "driverName": "Chris Luna",
@@ -962,12 +962,12 @@
             {
               "driverName": "Dirk Groeneveld",
               "sponsorName": "Toyo Tires",
-              "value": "__Toyo_undefined_award_value__"
+              "value": "__Toyo_Race_award_value__"
             },
             {
               "driverName": "Duncan Pearce",
               "sponsorName": "Advanced Auto Fabrication",
-              "value": "__AAF_undefined_award_value__"
+              "value": "__AAF_Race_award_value__"
             },
             {
               "driverName": "Greg Hartman",
@@ -977,7 +977,7 @@
             {
               "driverName": "Isaiah Dummer",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Jake Pratt",
@@ -987,12 +987,12 @@
             {
               "driverName": "Jim Cissell",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Norman Salmon",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Rob Johnston",
@@ -1014,12 +1014,12 @@
             {
               "driverName": "Jake Borrelli",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "John Houlihan",
               "sponsorName": "Racers On Rails",
-              "value": "__RoR_undefined_award_value__"
+              "value": "__RoR_Race_award_value__"
             }
           ]
         },
@@ -1040,17 +1040,17 @@
             {
               "driverName": "Corey Peters",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Daniele Hovington",
               "sponsorName": "Advanced Auto Fabrication",
-              "value": "__AAF_undefined_award_value__"
+              "value": "__AAF_Race_award_value__"
             },
             {
               "driverName": "Fil Alleva",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Guy Berry",
@@ -1075,7 +1075,7 @@
             {
               "driverName": "Matt Lowell",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Scott Eckert",
@@ -1085,12 +1085,12 @@
             {
               "driverName": "Will Kellogg",
               "sponsorName": "Bimmerworld",
-              "value": "__Bimmerworld_undefined_award_value__"
+              "value": "__Bimmerworld_Race_award_value__"
             },
             {
               "driverName": "Zack Watson",
               "sponsorName": "Toyo Tires",
-              "value": "__Toyo_undefined_award_value__"
+              "value": "__Toyo_Race_award_value__"
             }
           ]
         },
@@ -1106,17 +1106,17 @@
             {
               "driverName": "Bryce Scott",
               "sponsorName": "Advanced Auto Fabrication",
-              "value": "__AAF_undefined_award_value__"
+              "value": "__AAF_Race_award_value__"
             },
             {
               "driverName": "Charles Hurley",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Chris Luna",
               "sponsorName": "Bimmerworld",
-              "value": "__Bimmerworld_undefined_award_value__"
+              "value": "__Bimmerworld_Race_award_value__"
             },
             {
               "driverName": "David Stenner",
@@ -1131,7 +1131,7 @@
             {
               "driverName": "Isaiah Dummer",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Jeff Bauman",
@@ -1151,7 +1151,7 @@
             {
               "driverName": "Nicholas Carbaugh",
               "sponsorName": "Toyo Tires",
-              "value": "__Toyo_undefined_award_value__"
+              "value": "__Toyo_Race_award_value__"
             },
             {
               "driverName": "Norman Salmon",
@@ -1161,7 +1161,7 @@
             {
               "driverName": "Rob Johnston",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             }
           ]
         }
@@ -1178,82 +1178,82 @@
             {
               "driverName": "Brian Bercovitz",
               "sponsorName": "Advanced Auto Fabrication",
-              "value": "__AAF_undefined_award_value__"
+              "value": "__AAF_Race_award_value__"
             },
             {
               "driverName": "Bryce Scott",
               "sponsorName": "Racers On Rails",
-              "value": "__RoR_undefined_award_value__"
+              "value": "__RoR_Race_award_value__"
             },
             {
               "driverName": "Chris Luna",
               "sponsorName": "425 Motorsports",
-              "value": "__425_undefined_award__value__"
+              "value": "__425_Race_award__value__"
             },
             {
               "driverName": "Corey Peters",
               "sponsorName": "Bimmerworld",
-              "value": "__Bimmerworld_undefined_award_value__"
+              "value": "__Bimmerworld_Race_award_value__"
             },
             {
               "driverName": "Daniele Hovington",
               "sponsorName": "Racers On Rails",
-              "value": "__RoR_undefined_award_value__"
+              "value": "__RoR_Race_award_value__"
             },
             {
               "driverName": "Fil Alleva",
               "sponsorName": "425 Motorsports",
-              "value": "__425_undefined_award__value__"
+              "value": "__425_Race_award__value__"
             },
             {
               "driverName": "Greg Hartman (Gift card",
               "sponsorName": "Racers On Rails",
-              "value": "__RoR_undefined_award_value__"
+              "value": "__RoR_Race_award_value__"
             },
             {
               "driverName": "Isaiah Dummer",
               "sponsorName": "Advanced Auto Fabrication",
-              "value": "__AAF_undefined_award_value__"
+              "value": "__AAF_Race_award_value__"
             },
             {
               "driverName": "Jeff Bauman",
               "sponsorName": "Bimmerworld",
-              "value": "__Bimmerworld_undefined_award_value__"
+              "value": "__Bimmerworld_Race_award_value__"
             },
             {
               "driverName": "Jeff McAffer",
               "sponsorName": "Bimmerworld",
-              "value": "__Bimmerworld_undefined_award_value__"
+              "value": "__Bimmerworld_Race_award_value__"
             },
             {
               "driverName": "John Houlihan",
               "sponsorName": "Bimmerworld",
-              "value": "__Bimmerworld_undefined_award_value__"
+              "value": "__Bimmerworld_Race_award_value__"
             },
             {
               "driverName": "John McDermott",
               "sponsorName": "Griots Garage",
-              "value": "__Griots_undefined_award_value__"
+              "value": "__Griots_Race_award_value__"
             },
             {
               "driverName": "Kyle Byers (Gift card",
               "sponsorName": "Griots Garage",
-              "value": "__Griots_undefined_award_value__"
+              "value": "__Griots_Race_award_value__"
             },
             {
               "driverName": "Lance Richert",
               "sponsorName": "Advanced Auto Fabrication",
-              "value": "__AAF_undefined_award_value__"
+              "value": "__AAF_Race_award_value__"
             },
             {
               "driverName": "Lee Storgaard",
               "sponsorName": "Advanced Auto Fabrication",
-              "value": "__AAF_undefined_award_value__"
+              "value": "__AAF_Race_award_value__"
             },
             {
               "driverName": "Scott Eckert",
               "sponsorName": "Griots Garage",
-              "value": "__Griots_undefined_award_value__"
+              "value": "__Griots_Race_award_value__"
             }
           ]
         }
@@ -1270,7 +1270,7 @@
             {
               "driverName": "Alex Zuccaro (Gift card",
               "sponsorName": "Racers On Rails",
-              "value": "__RoR_undefined_award_value__"
+              "value": "__RoR_Race_award_value__"
             }
           ]
         },
@@ -1296,12 +1296,12 @@
             {
               "driverName": "Isaiah Dummer",
               "sponsorName": "Bimmerworld",
-              "value": "__Bimmerworld_undefined_award_value__"
+              "value": "__Bimmerworld_Race_award_value__"
             },
             {
               "driverName": "Isaiah Dummer",
               "sponsorName": "Toyo Tires",
-              "value": "__Toyo_undefined_award_value__"
+              "value": "__Toyo_Race_award_value__"
             },
             {
               "driverName": "Jake Borrelli",
@@ -1311,7 +1311,7 @@
             {
               "driverName": "Matt Lowell",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Norman Salmon",
@@ -1321,7 +1321,7 @@
             {
               "driverName": "Norman Salmon",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Werner Berger",
@@ -1331,7 +1331,7 @@
             {
               "driverName": "Werner Berger",
               "sponsorName": "Advanced Auto Fabrication",
-              "value": "__AAF_undefined_award_value__"
+              "value": "__AAF_Race_award_value__"
             },
             {
               "driverName": "Zack Watson",
@@ -1341,7 +1341,7 @@
             {
               "driverName": "Zack Watson",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             }
           ]
         },
@@ -1352,17 +1352,17 @@
             {
               "driverName": "Bryce Scott",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Charles Hurley",
               "sponsorName": "Bimmerworld",
-              "value": "__Bimmerworld_undefined_award_value__"
+              "value": "__Bimmerworld_Race_award_value__"
             },
             {
               "driverName": "Charles Hurley",
               "sponsorName": "Toyo Tires",
-              "value": "__Toyo_undefined_award_value__"
+              "value": "__Toyo_Race_award_value__"
             },
             {
               "driverName": "Chris Luna",
@@ -1372,7 +1372,7 @@
             {
               "driverName": "Chris Luna",
               "sponsorName": "Advanced Auto Fabrication",
-              "value": "__AAF_undefined_award_value__"
+              "value": "__AAF_Race_award_value__"
             },
             {
               "driverName": "Corey Peters",
@@ -1387,7 +1387,7 @@
             {
               "driverName": "Jeff McAffer",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "John McDermott",
@@ -1397,7 +1397,7 @@
             {
               "driverName": "John McDermott",
               "sponsorName": "Redline",
-              "value": "__Redline_undefined_award_value__"
+              "value": "__Redline_Race_award_value__"
             },
             {
               "driverName": "Matt Lowell",
@@ -1420,6 +1420,6 @@
       "weekendAwards": []
     }
   ],
-  "lastUpdatedDateTime": "2024-11-20T23:54:56.885Z",
+  "lastUpdatedDateTime": "2024-11-21T00:02:45.304Z",
   "lastUpdatedBy": "wghilliard"
 }
